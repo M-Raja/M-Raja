@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Programming and Tech related stuffs**
 
-- 📫 How to reach me **www.linkedin.com/in/m-raja-**
+- 📫 How to reach me **rajarobert003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
