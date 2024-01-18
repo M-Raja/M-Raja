@@ -1,23 +1,18 @@
 
 
-<h1 align="center">
-  
-  Hello there 👋
- 
-
-</h1>
 
 
-<img align="center" alt="Coding" width="1100" height="400" src="https://github.com/M-Raja/M-Raja/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner%20(1).png">
+
+<img align="center" alt="Coding" width="1200" height="300" src="https://github.com/M-Raja/M-Raja/blob/main/Purple%20Blue%20Colorful%20Gaming%20LinkedIn%20Banner.png">
 
 <div><br><br>
 
   <p align="center">
-Hey there, I'm Raghul! I'm a tech enthusiast, passionate about innovation and creating solutions through software development. On the side, I also write, create content, and share knowledge about open source, DevOps, and more
+Hey there, I'm Raja! I'm a tech enthusiast, passionate about innovation and creating solutions through Cyber security. On the side, I also  create content, and share knowledge about open source, Ethical Hacking , Linux and more
 
   </p>
  
-  <h3 align="center">  Developer | Writer | Creator </h3>
+  <h3 align="center">  Cybersecurity Engineer | Programmer | Creator </h3>
 </div>
 
 
@@ -25,9 +20,9 @@ Hey there, I'm Raghul! I'm a tech enthusiast, passionate about innovation and cr
     <img src="https://komarev.com/ghpvc/?username=Raghul-M&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Raghul Profile Visits" />    
     <a href="https://raghul-m.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
  <p align="center">
-  🤝I’m looking to collaborate on Software Development or any Techstuffs 
+  🤝I’m looking to collaborate on Cybersecurity or any Techstuffs 
  <br><br>💬 Ask me about <b>Tech, Fitness & Anything</b>
-<br><br>⚡ Thought <b>Dream - Believe - Build</b>
+
   </p>
  
 
