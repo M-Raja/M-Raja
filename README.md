@@ -41,6 +41,7 @@ Hey there, I'm Raghul! I'm a tech enthusiast, passionate about innovation and cr
   </p>
 </div>
 
+
 <h2 align="center"> Connect with me on :  </h2>
 
 
@@ -53,15 +54,10 @@ Hey there, I'm Raghul! I'm a tech enthusiast, passionate about innovation and cr
   <a href="mailto:raghulmadhavan1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/m-raghul/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/raghul_official._/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/RaghulM01"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="https://raghul-m.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  
 </div>
 
 
-  <a href="https://hashnode.com/@Raghul-M"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://dev.to/raghul"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
- 
-</div>
 
 
 
@@ -70,26 +66,30 @@ Hey there, I'm Raghul! I'm a tech enthusiast, passionate about innovation and cr
 
 
 
+
+
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghul-m&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Raghul M" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-raja&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="M Raja" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghul-m&theme=dark&hide_border=true"
-      alt="Raghul M" />       </td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-raja&theme=dark&hide_border=true"
+      alt="M Raja" />       </td>
   </tr>
 </table>
 
 <div align="center">
 
-![raghul-m's Stats](https://github-readme-stats.vercel.app/api?username=raghul-m&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![m-raja's Stats](https://github-readme-stats.vercel.app/api?username=m-raja&theme=dark&show_icons=true&hide_border=true&count_private=true)
   
 </div>
 
 
 
-[![Raghul M github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raghul-m&bg_color=000000&color=2fe999&line=4c9e78&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Raja M github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-raja&bg_color=000000&color=2fe999&line=4c9e78&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</table>
+
 
 
   
