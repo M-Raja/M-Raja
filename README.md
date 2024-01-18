@@ -3,7 +3,7 @@
 
 
 
-<img align="center" alt="Coding" width="1200" height="300" src="https://github.com/M-Raja/M-Raja/blob/main/Purple%20Blue%20Colorful%20Gaming%20LinkedIn%20Banner.png">
+<img align="center" alt="Coding" width="1200" height="200" src="https://github.com/M-Raja/M-Raja/blob/main/Purple%20Blue%20Colorful%20Gaming%20LinkedIn%20Banner.png">
 
 <div><br><br>
 
