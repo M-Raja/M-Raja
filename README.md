@@ -2,13 +2,13 @@
 
 <h1 align="center">
   
-  Hello there, I'm Raja M 👋
+  Hello there 👋
  
 
 </h1>
 
 
-<img align="center" alt="Coding" width="1200" height="300" src="">
+<img align="center" alt="Coding" width="1100" height="400" src="https://github.com/M-Raja/M-Raja/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner%20(1).png">
 
 <div><br><br>
 
