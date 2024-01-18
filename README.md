@@ -2,7 +2,7 @@
 
 <h1 align="center">
   
-  Hello there, I'm [Raaja M] 👋
+  Hello there, I'm Raja M 👋
  
 
 </h1>
@@ -45,7 +45,7 @@ Hey there, I'm Raghul! I'm a tech enthusiast, passionate about innovation and cr
 <h2 align="center"> Connect with me on :  </h2>
 
 
-<img   align="center" alt="Coding" width="500" height="300" src="https://media1.giphy.com/media/pxByU4o4jZu3XrOxct/giphy.gif?cid=790b7611489ni7wnddmbjafuist0mm4dqlaxisdlixuueo3b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img   align="center" alt="Coding" width="500" height="300" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif">
 
 <br>
 <br>
