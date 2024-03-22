@@ -5,7 +5,7 @@
 
 <img align="center" alt="Coding" width="1200" height="200" src="https://github.com/M-Raja/M-Raja/blob/main/Bannerx.png">
 
-<div><br><br>
+<div><br>
 
   <p align="center">
 Hey there, I'm <b>Raja </b> ! I'm a tech enthusiast, passionate about innovation and creating solutions through Cyber security. On the side, I also  create content, and share knowledge about open source, Ethical Hacking , Linux and more
