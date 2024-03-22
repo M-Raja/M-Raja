@@ -3,7 +3,7 @@
 
 
 
-<img align="center" alt="Coding" width="1200" height="200" src="https://github.com/M-Raja/M-Raja/blob/main/back.png">
+<img align="center" alt="Coding" width="1200" height="200" src="https://github.com/M-Raja/M-Raja/blob/main/bannerx.png">
 
 <div><br><br>
 
