@@ -25,7 +25,7 @@ Hey there, I'm <b>Raja </b> ! I'm a tech enthusiast, passionate about innovation
  <br><br>💬 Ask me about <b>Tech, Fitness & Anything</b>
 
   </p>
- <br>  <br> <br>
+ <br>  
 
 <div align="center">
 
