@@ -18,7 +18,7 @@ Hey there! I'm <b>Raja</b>, a tech enthusiast passionate about innovation and cy
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=m-raja&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Raja Profile Visits" />    
-    <a href="https://m-raja.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /> </a>
+    <a href="https://m-raja.github.io/" target= "blank"><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /> </a>
     <br>  <br>
  <p align="center">
   🤝 I’m looking to collaborate on Cybersecurity or any tech-related projects. 
