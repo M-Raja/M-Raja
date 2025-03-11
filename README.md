@@ -21,7 +21,7 @@ Hey there! I'm <b>Raja</b>, a tech enthusiast passionate about innovation and cy
     <a href=""><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
     <br>  <br>
  <p align="center">
-  🤝I’m looking to collaborate on Cybersecurity or any Techstuffs 
+  🤝 I’m looking to collaborate on Cybersecurity or any tech-related projects. 
  <br><br>💬 Ask me about <b>Tech, Fitness & Anything</b>
 
   </p>
