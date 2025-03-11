@@ -8,7 +8,7 @@
 <div><br>
 
   <p align="center">
-Hey there, I'm <b>Raja </b> ! I'm a tech enthusiast, passionate about innovation and creating solutions through Cyber security. On the side, I also  create content, and share knowledge about open source, Ethical Hacking , Linux and more
+Hey there! I'm <b>Raja</b>, a tech enthusiast passionate about innovation and cybersecurity solutions. On the side, I also  create content, and share knowledge about open source, Ethical Hacking , Linux and more
 
   </p>
  
