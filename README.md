@@ -52,7 +52,8 @@ Hey there! I'm <b>Raja</b>, a tech enthusiast passionate about innovation and cy
 <h2 align="center"> Connect with me on :  </h2>
 
 
-<img   align="center" alt="Coding" width="500" height="300" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif">
+
+<img   align="center" alt="Coding" width="500" height="300" src="https://github.com/user-attachments/assets/92d1403a-a3aa-4df9-8002-5de7a9cc8c47f">
 
 <br>
 <br>
