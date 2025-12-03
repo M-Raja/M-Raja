@@ -70,35 +70,6 @@ Hey there! I'm <b>Raja</b>, a tech enthusiast passionate about innovation and cy
 
 
 
--------
-
-
-
-
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-raja&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="M Raja" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-raja&theme=dark&hide_border=true"
-      alt="M Raja" />       </td>
-  </tr>
-</table>
-<br>
-<div align="center">
-
-![m-raja's Stats](https://github-readme-stats.vercel.app/api?username=m-raja&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  
-</div>
-
-
-
-[![Raja M github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-raja&bg_color=000000&color=2fe999&line=4c9e78&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
-</table>
-
 
 
   
